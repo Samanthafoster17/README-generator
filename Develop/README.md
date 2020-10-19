@@ -1,4 +1,4 @@
-# jhgjgjhgjgjg
+# Readme generator
    
 ## Table of Contents:
 
@@ -16,21 +16,21 @@
 
 
 ## Description
-          hkgjhgjgjhgjhg 
+          this is a test for the readme generator 
   
 ## Installation 
-          hgjhgjhgjhg 
+           
   
 ## License
-          MIT 
+          None 
   
 ## Contribution 
-          jkjhkjhkjh 
+          n/a 
   
 ## Tests
-          nkjhkhkjh 
+          n/a 
   
 ## Questions 
-          Please send any questions to: jhgjgjjhg
+          Please send any questions to: Samanthafoster17@gmail.com
 
-          You may view GitHub profile here: https://github.com/hjgjgjhgjhg.
+          You may view GitHub profile here: https://github.com/Samanthafoster17.
