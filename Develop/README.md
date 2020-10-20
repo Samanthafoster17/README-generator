@@ -1,6 +1,6 @@
-# Testing..
+# ReadMe Generator
    
-![License](https://img.shields.io/badge/License-APACHE2.0-blue.svg "License Badge")
+![License](https://img.shields.io/badge/License-None-blue.svg "License Badge")
 
 
 ## Table of Contents:
@@ -19,22 +19,25 @@
 
 
 ## Description
-Testing.. 
+ReadMe Generator allows users to enter project information so that the users may be provided with a detailed readme for their project. 
   
 ## Installation 
-Testing.. 
+node.js, npm inquirer, npm install. 
   
 ## License
-APACHE2.0 
+None
+
+For more information please visit: 
+https://opensource.org/licenses/category
   
 ## Contribution 
-samanthafoster17 
+N/A 
   
 ## Tests
-Testing.. 
+N/A 
   
 ## Questions 
-Please send any questions to: samanthafoster17@gmail.com
+Please send any questions to: Samanthafoster17@gmail.com
 
 You may view GitHub profile here: 
--[Github Profile](https://github.com/samanthafoster17).
+-[Github Profile](https://github.com/Samanthafoster17).

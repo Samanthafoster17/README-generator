@@ -1,7 +1,7 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "![License](https://img.shields.io/badge/License-None-blue.svg \"License Badge\")",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,6 @@
   "dependencies": {
     "inquire": "^0.4.8",
     "inquirer": "^6.5.2"
-  }
+  },
+  "devDependencies": {}
 }

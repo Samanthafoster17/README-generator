@@ -27,7 +27,9 @@ ${response.description}
 ${response.installation} 
   
 ## License
-${response.license} 
+${response.license}\n
+For more information please visit: 
+https://opensource.org/licenses/category
   
 ## Contribution 
 ${response.contributions} 
