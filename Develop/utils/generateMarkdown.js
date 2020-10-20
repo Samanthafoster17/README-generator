@@ -3,6 +3,8 @@
 function generateMarkdown(response) {
   return `# ${response.title}
    
+![License](https://img.shields.io/badge/License-${response.license}-blue.svg "License Badge")\n
+
 ## Table of Contents:
 
 - [Description](#description)
@@ -25,7 +27,6 @@ ${response.description}
 ${response.installation} 
   
 ## License
-![License](https://img.shields.io/badge/License-${response.license}-blue.svg "License Badge")\n
 ${response.license} 
   
 ## Contribution 

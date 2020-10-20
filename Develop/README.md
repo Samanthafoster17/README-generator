@@ -1,5 +1,8 @@
-# testing...
+# Testing..
    
+![License](https://img.shields.io/badge/License-APACHE2.0-blue.svg "License Badge")
+
+
 ## Table of Contents:
 
 - [Description](#description)
@@ -16,24 +19,22 @@
 
 
 ## Description
-testing... 
+Testing.. 
   
 ## Installation 
-testing... 
+Testing.. 
   
 ## License
-![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
-
-MIT 
+APACHE2.0 
   
 ## Contribution 
-testing... 
+samanthafoster17 
   
 ## Tests
-testing... 
+Testing.. 
   
 ## Questions 
-Please send any questions to: Samanthafoster17@gmail.com
+Please send any questions to: samanthafoster17@gmail.com
 
 You may view GitHub profile here: 
--[Github Profile](https://github.com/Samanthafoster17).
+-[Github Profile](https://github.com/samanthafoster17).
