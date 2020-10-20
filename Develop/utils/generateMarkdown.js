@@ -25,6 +25,7 @@ function generateMarkdown(response) {
           ${response.installation} 
   
 ## License
+ ![Liscense](https://img.shields.io/badge/License-${response.license}-blue.svg "License Badge")
           ${response.license} 
   
 ## Contribution 
@@ -34,9 +35,9 @@ function generateMarkdown(response) {
           ${response.tests} 
   
 ## Questions 
-          Please send any questions to: ${response.email}
+          Please send any questions to: (https://${response.email})
 
-          You may view GitHub profile here: https://github.com/${response.github}.
+          You may view GitHub profile here: (https://github.com/${response.github}).
 `;
 }
 

@@ -33,14 +33,15 @@ const questions = [
         message: "Please enter any installation instructions for your project"
     },
     {
-        type: "checkbox",
+        type: "list",
         name: "license",
         message: "Please choose appropriate license for your project",
         choices: [
             "None",
             "MIT",
-            "BNU",
-            "GSD"
+            "APACHE2.0",
+            "GPL3.0",
+            "BSD3"
 
         ]
     },
