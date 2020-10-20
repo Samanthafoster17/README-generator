@@ -5,39 +5,40 @@ function generateMarkdown(response) {
    
 ## Table of Contents:
 
-   - [Description](#description)
+- [Description](#description)
 
-   - [Installation](#installation)
+- [Installation](#installation)
 
-   - [License](#license) 
+- [License](#license) 
 
-   - [Contribution](#contribution)
+- [Contribution](#contribution)
 
-   - [Tests](#tests)
+- [Tests](#tests)
 
-   - [Questions](#questions) 
+- [Questions](#questions) 
 
 
 ## Description
-          ${response.description} 
+${response.description} 
   
 ## Installation 
-          ${response.installation} 
+${response.installation} 
   
 ## License
- ![Liscense](https://img.shields.io/badge/License-${response.license}-blue.svg "License Badge")
-          ${response.license} 
+![License](https://img.shields.io/badge/License-${response.license}-blue.svg "License Badge")\n
+${response.license} 
   
 ## Contribution 
-          ${response.contributions} 
+${response.contributions} 
   
 ## Tests
-          ${response.tests} 
+${response.tests} 
   
 ## Questions 
-          Please send any questions to: (https://${response.email})
+Please send any questions to: ${response.email}
 
-          You may view GitHub profile here: (https://github.com/${response.github}).
+You may view GitHub profile here: 
+-[Github Profile](https://github.com/${response.github}).
 `;
 }
 

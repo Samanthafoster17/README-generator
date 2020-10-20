@@ -1,37 +1,39 @@
-# Testing
+# testing...
    
 ## Table of Contents:
 
-   - [Description](#description)
+- [Description](#description)
 
-   - [Installation](#installation)
+- [Installation](#installation)
 
-   - [License](#license) 
+- [License](#license) 
 
-   - [Contribution](#contribution)
+- [Contribution](#contribution)
 
-   - [Tests](#tests)
+- [Tests](#tests)
 
-   - [Questions](#questions) 
+- [Questions](#questions) 
 
 
 ## Description
-          Testing 
+testing... 
   
 ## Installation 
-          Testing 
+testing... 
   
 ## License
- ![Liscense](https://img.shields.io/badge/License-GPL3.0-blue.svg "License Badge")
-          GPL3.0 
+![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
+
+MIT 
   
 ## Contribution 
-          Testing 
+testing... 
   
 ## Tests
-          Testing 
+testing... 
   
 ## Questions 
-          Please send any questions to: (https://Samanthafoster17@gmail.com)
+Please send any questions to: Samanthafoster17@gmail.com
 
-          You may view GitHub profile here: (https://github.com/Samanthafoster17).
+You may view GitHub profile here: 
+-[Github Profile](https://github.com/Samanthafoster17).
